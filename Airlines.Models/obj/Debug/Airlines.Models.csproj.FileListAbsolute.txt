@@ -1,0 +1,5 @@
+F:\SandBox\PathToAngularJS\Airlines\AirLinesProj\Airlines.Models\bin\Debug\Airlines.Models.dll
+F:\SandBox\PathToAngularJS\Airlines\AirLinesProj\Airlines.Models\bin\Debug\Airlines.Models.pdb
+F:\SandBox\PathToAngularJS\Airlines\AirLinesProj\Airlines.Models\obj\Debug\Airlines.Models.csproj.CoreCompileInputs.cache
+F:\SandBox\PathToAngularJS\Airlines\AirLinesProj\Airlines.Models\obj\Debug\Airlines.Models.dll
+F:\SandBox\PathToAngularJS\Airlines\AirLinesProj\Airlines.Models\obj\Debug\Airlines.Models.pdb

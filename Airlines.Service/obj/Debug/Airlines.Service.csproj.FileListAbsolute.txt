@@ -1,0 +1,17 @@
+F:\SandBox\PathToAngularJS\Airlines\AirLinesProj\Airlines.Service\obj\Debug\Airlines.Service.csproj.CoreCompileInputs.cache
+F:\SandBox\PathToAngularJS\Airlines\AirLinesProj\Airlines.Service\bin\Debug\Airlines.Service.dll.config
+F:\SandBox\PathToAngularJS\Airlines\AirLinesProj\Airlines.Service\bin\Debug\Airlines.Service.dll
+F:\SandBox\PathToAngularJS\Airlines\AirLinesProj\Airlines.Service\bin\Debug\Airlines.Service.pdb
+F:\SandBox\PathToAngularJS\Airlines\AirLinesProj\Airlines.Service\bin\Debug\Airlines.Data.dll
+F:\SandBox\PathToAngularJS\Airlines\AirLinesProj\Airlines.Service\bin\Debug\Airlines.Models.dll
+F:\SandBox\PathToAngularJS\Airlines\AirLinesProj\Airlines.Service\bin\Debug\EntityFramework.dll
+F:\SandBox\PathToAngularJS\Airlines\AirLinesProj\Airlines.Service\bin\Debug\EntityFramework.SqlServer.dll
+F:\SandBox\PathToAngularJS\Airlines\AirLinesProj\Airlines.Service\bin\Debug\Airlines.Data.pdb
+F:\SandBox\PathToAngularJS\Airlines\AirLinesProj\Airlines.Service\bin\Debug\Airlines.Data.dll.config
+F:\SandBox\PathToAngularJS\Airlines\AirLinesProj\Airlines.Service\bin\Debug\Airlines.Models.pdb
+F:\SandBox\PathToAngularJS\Airlines\AirLinesProj\Airlines.Service\bin\Debug\EntityFramework.xml
+F:\SandBox\PathToAngularJS\Airlines\AirLinesProj\Airlines.Service\bin\Debug\EntityFramework.SqlServer.xml
+F:\SandBox\PathToAngularJS\Airlines\AirLinesProj\Airlines.Service\obj\Debug\Airlines.Service.csprojAssemblyReference.cache
+F:\SandBox\PathToAngularJS\Airlines\AirLinesProj\Airlines.Service\obj\Debug\Airlines.Service.csproj.CopyComplete
+F:\SandBox\PathToAngularJS\Airlines\AirLinesProj\Airlines.Service\obj\Debug\Airlines.Service.dll
+F:\SandBox\PathToAngularJS\Airlines\AirLinesProj\Airlines.Service\obj\Debug\Airlines.Service.pdb
